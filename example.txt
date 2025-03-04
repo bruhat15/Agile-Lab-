@@ -1,1 +1,2 @@
 HEllo World!
+Fixed a bug in Example.txt
